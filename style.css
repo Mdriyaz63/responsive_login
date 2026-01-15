@@ -37,7 +37,7 @@ p {
 }
 
 .hero {
-  background: url("/Users/riyaz/Documents/login page/images/360_F_351512882_2kFH8IaSe4lyA7SXBLzEXyGKNEgbO1iH.jpg");
+  background: url("360_F_351512882_2kFH8IaSe4lyA7SXBLzEXyGKNEgbO1iH");
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 16px;
